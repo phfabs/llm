@@ -1,0 +1,7 @@
+cuda/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+lucie_french_10gb.txt
+train_data.txt
+val_data.txt
